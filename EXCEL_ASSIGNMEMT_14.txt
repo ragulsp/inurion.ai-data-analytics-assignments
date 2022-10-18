@@ -1,0 +1,85 @@
+Dataset:
+
+https://docs.google.com/spreadsheets/d/1-Zo-
+A4gnlLOQxpU8qgpkTJPJCS8cQBmNzKVirJ_Ow0w/edit?usp=sharing
+
+Use the above dataset and answer the following questions. Assume that a
+gang is trying to loot Diamonds and Soft drinks being exported from India
+
+
+1. How much Diamonds were looted from Chennai Port Trust?
+
+			ANS : 3249
+
+
+Date		Type of attack	Location of attack	Diamonds looted (in ounces)
+3/9/1975	Port			Chennai Port Trust		1216
+19/12/1978	Port			Chennai Port Trust		1658
+26/1/1983	Port			Chennai Port Trust		375
+			
+	-----------------------------------------------
+	
+2. How many Ships were looted near Paradip Port Trust and Chennai Port
+Trust?
+
+
+COUNT:6
+
+
+Date		Type of attack	Location of attack	Diamonds looted (in ounces)	Soft drinks looted (in gallons)	Soft Drinks Consumed	
+4/11/1963	Ship/to/Ship	Paradip Port Trust	986					3275						1015.25	
+28/7/1964	Ship/to/Ship	Chennai Port Trust	2372					1355						596.2	
+5/7/1967	Ship/to/Ship	Chennai Port Trust	1379					1190						476	
+22/7/1968	Ship/to/Ship	Chennai Port Trust	182					3644						1093.2	
+25/12/1985	Ship/to/Ship	Paradip Port Trust	233					2289						686.7	
+2/2/1986	Ship/to/Ship	Paradip Port Trust	73					2414				1110.44	
+						
+
+		-----------------------------------------------------------	
+
+3. What is the sum total of Diamonds looted from the V.O. Chidambarnar
+port trust?
+
+		ANS : 9887
+
+Date		Type of attack	Location of attack			Diamonds looted (in ounces)
+18/12/1976	Ship/to/Ship	V.O. Chidambaranar Port Trust		953
+25/8/1976	Port			V.O. Chidambaranar Port Trust		70
+4/3/1978	Port			V.O. Chidambaranar Port Trust		1613
+2/11/1982	Port			V.O. Chidambaranar Port Trust		2192
+20/12/1984	Port			V.O. Chidambaranar Port Trust		2207
+28/11/1986	Ship/to/Ship	V.O. Chidambaranar Port Trust		2852
+
+	--------------------------------------------------------------
+
+4. What is the average amount of Diamonds and Soft drinks looted?
+
+
+		*average amount of Diamonds  looted = 1254.862069
+		*average amount of  Soft drinks looted = 2227.758621
+ 
+
+5. What is the ratio of soft drinks drunk to soft drinks looted?
+
+
+ 	soft drinks drunk  : 50652.47 = 129210 : soft drinks looted 
+  					50652 : 129210 = 8442 : 21535
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
