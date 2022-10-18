@@ -1,0 +1,23 @@
+Dataset:
+https://docs.google.com/spreadsheets/d/1IRSEnmgz8Ro276-
+GslknRNk0zlrB5CZH1YrnT71kqFM/edit?usp=sharing
+
+
+1. What is the total amount of stationary bought from Madhya Pradesh?
+			ANS : 176,971
+
+2. What is the total count of stationary bought from Tamilnadu?
+			ANS : 13
+
+3. What is the total amount spent on footwear?
+			ANS:194,226
+
+4. What is the total amount of money spent for stationary in July?
+				ANS : 53,398
+
+5. What is the count of footwear that is coming from Delhi?
+
+ Order ID	Product	Category	Amount	Date	Country
+ 166	Shoe	Footwear	₹ 9,104	4/12/2016	Delhi
+ 183	Socks	Footwear	₹ 680		28/12/2016	Delhi
+					
